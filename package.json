@@ -1,0 +1,15 @@
+{
+  "name": "postcss-kilikki-example",
+  "author": "Rakesh Menon",
+  "version": "0.0.1",
+  "description": "Example on how to process CSS written in Kilikki",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-watch": "^4.3.11",
+    "postcss": "^5.2.17"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
