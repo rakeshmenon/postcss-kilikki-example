@@ -5,10 +5,10 @@
   "description": "Example on how to process CSS written in Kilikki",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-postcss": "^6.4.0",
+    "gulp-postcss": "^7.0.0",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-watch": "^4.3.11",
-    "postcss": "^5.2.17"
+    "postcss": "^6.0.10"
   },
   "dependencies": {},
   "license": "MIT"
